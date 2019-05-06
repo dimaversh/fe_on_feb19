@@ -266,13 +266,11 @@ body
 display: flex;
 flex-direction: column;
 }
-
 .footer-nav
 {
   display: flex;
   flex-direction: row;
   padding: 10px;
-
 }
 .email-form
 {
@@ -282,7 +280,6 @@ flex-direction: column;
   max-width: 1202px;
   margin: 0 auto;
 }
-
 .line { 
   border-bottom: 1px solid #ccc;
  } */
